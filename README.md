@@ -1,6 +1,7 @@
 # Digital Flutter Clock
 Digital Flutter clock designed for flutter Clock Contest(2020).
-
+![](digital_light.png)
+![](digital_dark.png)
 ## Running Instructions
 Use the following steps:
 
